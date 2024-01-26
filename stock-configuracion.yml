@@ -1,2 +1,2 @@
   dbStocks-cnx: mongodb://127.0.0.1:27017/?retryWrites=true&loadBalanced=false&connectTimeoutMS=10000
-  bootstrapservers: localhost:9092
+  bootstrapservers: 127.0.0.1:9092
