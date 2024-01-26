@@ -1,2 +1,1 @@
-ConnectionStrings: 
-    dbVenta-cnx: Server=localhost;Database=Venta;Persist Security Info=False; Trusted_Connection=false; TrustServerCertificate=True; User ID=sa;Password=Bcp@1234 
+dbVenta-cnx: Server=localhost;Database=Venta;Persist Security Info=False; Trusted_Connection=false; TrustServerCertificate=True; User ID=sa;Password=Bcp@1234 
