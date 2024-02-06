@@ -4,3 +4,5 @@ dbStocks-cnx: mongodb://127.0.0.1:27017/?retryWrites=true&loadBalanced=false&con
 db-productos-stocks : db-productos-stocks
 bootstrapservers: 127.0.0.1:9092
 venta-actualizar-stocks :  venta-actualizar-stocks
+log-mongo-server-db: mongodb://localhost:27017/dbLogs
+log-mongo-db-collection: logs-ventas
