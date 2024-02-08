@@ -6,4 +6,4 @@ bootstrapservers: 127.0.0.1:9092
 venta-actualizar-stocks :  venta-actualizar-stocks
 log-mongo-server-db: mongodb://localhost:27017/dbLogs
 log-mongo-db-collection: logs-ventas
-url-base-servicio-pago : https://localhost:7020
+url-base-servicio-pago: https://localhost:7020
