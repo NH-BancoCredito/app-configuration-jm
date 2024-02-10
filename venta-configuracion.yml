@@ -7,3 +7,6 @@ venta-actualizar-stocks :  venta-actualizar-stocks
 log-mongo-server-db: mongodb://localhost:27017/dbLogs
 log-mongo-db-collection: logs-ventas
 url-base-servicio-pago: https://localhost:7020
+dbPagos-cnx : mongodb://127.0.0.1:27017/?retryWrites=true&loadBalanced=false&connectTimeoutMS=10000
+db-pagos-ventas: db-pagos-ventas
+
