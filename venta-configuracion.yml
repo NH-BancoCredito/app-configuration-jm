@@ -1,4 +1,5 @@
 dbVenta-cnx: Server=localhost;Database=Venta;Persist Security Info=False; Trusted_Connection=false; TrustServerCertificate=True; User ID=sa;Password=Bcp@1234
+dbPago-cnx: Server=localhost;Database=Pago;Persist Security Info=False; Trusted_Connection=false; TrustServerCertificate=True; User ID=sa;Password=Bcp@1234
 url-base-servicio-stock: https://localhost:7065
 dbStocks-cnx: mongodb://127.0.0.1:27017/?retryWrites=true&loadBalanced=false&connectTimeoutMS=10000
 db-productos-stocks : db-productos-stocks
